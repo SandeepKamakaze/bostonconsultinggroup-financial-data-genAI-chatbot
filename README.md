@@ -2,6 +2,8 @@
 
 This repository contains my work from the **BCG GenAI Job Simulation on Forage (February 2025)**, where I developed an AI-powered financial chatbot. The chatbot is designed to transform complex financial data into actionable insights, making financial analysis more accessible and user-friendly.  
 
+**Credential** : https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/SKZxezskWgmFjRvj9/gabev3vXhuACr48eb_SKZxezskWgmFjRvj9_hJSzvtSwkMqqnTcqo_1739796874180_completion_certificate.pdf
+
 ## 🚀 Project Overview  
 During this simulation, I:  
 - Developed a **rule-based chatbot** to provide structured financial insights.  
